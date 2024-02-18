@@ -6,7 +6,7 @@ namespace Lab4CSharp {
             int number = 1;
 
             while (number != 0) {
-                Console.Write("Input task number [1-4], [0] to exit: ");
+                Console.Write("Input task number [1-3], [0] to exit: ");
 
                 try {
                     string? input = Console.ReadLine();
